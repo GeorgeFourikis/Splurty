@@ -8,6 +8,9 @@ Splurty::Application.routes.draw do
    resources :quotes
 
 
+
+
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
